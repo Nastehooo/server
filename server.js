@@ -1,15 +1,14 @@
-// server.js
-
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 8000;
+const PORT = process.env.PORT || 8000; // Allow dynamic port for hosting services
 
-// Allow requests from React frontend (localhost:3000)
+// Middleware
 app.use(cors());
+app.use(express.json()); // Allows parsing JSON requests
 
 // Serve Scatter Plot Data
 app.get('/api/scatter-data', (req, res) => {
@@ -20,8 +19,7 @@ app.get('/api/scatter-data', (req, res) => {
       return res.status(500).json({ error: 'Failed to read scatter data' });
     }
     try {
-      const jsonData = JSON.parse(data);
-      res.json(jsonData);
+      res.json(JSON.parse(data));
     } catch (parseErr) {
       console.error('❌ Error parsing scatter JSON:', parseErr.message);
       res.status(500).json({ error: 'Invalid scatter data format' });
@@ -38,8 +36,7 @@ app.get('/api/bar-chart-data', (req, res) => {
       return res.status(500).json({ error: 'Failed to read bar chart data' });
     }
     try {
-      const jsonData = JSON.parse(data);
-      res.json(jsonData);
+      res.json(JSON.parse(data));
     } catch (parseErr) {
       console.error('❌ Error parsing bar chart JSON:', parseErr.message);
       res.status(500).json({ error: 'Invalid bar chart data format' });
@@ -47,8 +44,7 @@ app.get('/api/bar-chart-data', (req, res) => {
   });
 });
 
-
-// Serve the raw map chart data
+// Serve Map Chart Data
 app.get('/api/map-chart-data', (req, res) => {
   const filePath = path.join(__dirname, 'map-chart.json');
   fs.readFile(filePath, 'utf8', (err, data) => {
@@ -57,8 +53,7 @@ app.get('/api/map-chart-data', (req, res) => {
       return res.status(500).json({ error: 'Failed to read map chart data' });
     }
     try {
-      const jsonData = JSON.parse(data);
-      res.json(jsonData);
+      res.json(JSON.parse(data));
     } catch (parseErr) {
       console.error('❌ Error parsing map chart JSON:', parseErr.message);
       res.status(500).json({ error: 'Invalid map chart data format' });
@@ -66,7 +61,7 @@ app.get('/api/map-chart-data', (req, res) => {
   });
 });
 
-// Serve the GeoJSON data
+// Serve GeoJSON Data
 app.get('/api/geo', (req, res) => {
   const filePath = path.join(__dirname, 'englandregions.geojson');
   fs.readFile(filePath, 'utf8', (err, data) => {
@@ -75,17 +70,15 @@ app.get('/api/geo', (req, res) => {
       return res.status(500).json({ error: 'Failed to read GeoJSON file' });
     }
     try {
-      const jsonData = JSON.parse(data);
-      res.json(jsonData);
+      res.json(JSON.parse(data));
     } catch (parseErr) {
       console.error('❌ Error parsing GeoJSON:', parseErr.message);
       res.status(500).json({ error: 'Invalid GeoJSON format' });
     }
   });
-})
+});
 
-
-// Serve the raw map chart data
+// Serve Animated Chart Data
 app.get('/api/animation', (req, res) => {
   const filePath = path.join(__dirname, 'gapminder_chart.json');
   fs.readFile(filePath, 'utf8', (err, data) => {
@@ -94,8 +87,7 @@ app.get('/api/animation', (req, res) => {
       return res.status(500).json({ error: 'Failed to read gapminder chart data' });
     }
     try {
-      const jsonData = JSON.parse(data);
-      res.json(jsonData);
+      res.json(JSON.parse(data));
     } catch (parseErr) {
       console.error('❌ Error parsing gapminder chart JSON:', parseErr.message);
       res.status(500).json({ error: 'Invalid gapminder chart data format' });
@@ -103,15 +95,12 @@ app.get('/api/animation', (req, res) => {
   });
 });
 
-
-
-
 // Root Endpoint
 app.get('/', (req, res) => {
   res.send('✅ Backend API is running.');
 });
 
-// Start server (should be last!)
+// Start Server
 app.listen(PORT, () => {
   console.log(`🚀 Server running at: http://localhost:${PORT}`);
 });
