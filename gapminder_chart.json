@@ -1,0 +1,596 @@
+[
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "36.602316602316606",
+   "Average_Income": "374.29634749034716"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "35.41829554339328",
+   "Average_Income": "358.6096482"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "30.450849963045084",
+   "Average_Income": "379.9614560236505"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "32.13058419243986",
+   "Average_Income": "375.16318728522293"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "40.33942558746737",
+   "Average_Income": "360.1157180156657"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "29.00369003690037",
+   "Average_Income": "362.95197785977837"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "32.82959874934862",
+   "Average_Income": "359.80301198540866"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "40.717432347388296",
+   "Average_Income": "358.1186784140966"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 1",
+   "IllnessPercentage": "37.29683490162532",
+   "Average_Income": "381.15433704020444"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "37.36372646184341",
+   "Average_Income": "386.1249950445991"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "35.24096385542169",
+   "Average_Income": "400.88321285140535"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "33.33333333333333",
+   "Average_Income": "414.7655771006459"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "31.971995332555426",
+   "Average_Income": "423.81906651108505"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "41.989881956155145",
+   "Average_Income": "385.96583473861745"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "31.636363636363633",
+   "Average_Income": "396.2925727272722"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "31.329325317301272",
+   "Average_Income": "418.5283500333994"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "40.21648626144879",
+   "Average_Income": "382.00970024979193"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 2",
+   "IllnessPercentage": "39.41908713692946",
+   "Average_Income": "402.0942531120331"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "39.27911275415896",
+   "Average_Income": "434.1410905730121"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "34.82142857142857",
+   "Average_Income": "459.2530258"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "32.49534450651769",
+   "Average_Income": "448.52930167597736"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "30.454545454545457",
+   "Average_Income": "461.1975568181823"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "41.36212624584717",
+   "Average_Income": "460.37855481727536"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "29.00763358778626",
+   "Average_Income": "424.9929855810009"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "29.99349381912817",
+   "Average_Income": "441.8823422"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "34.66550825369244",
+   "Average_Income": "484.20360556038236"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 3",
+   "IllnessPercentage": "35.9",
+   "Average_Income": "444.55652999999955"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "38.34061135371179",
+   "Average_Income": "459.1119563318779"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "36.76470588235294",
+   "Average_Income": "470.0875000000012"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "31.265306122448976",
+   "Average_Income": "466.4435510204082"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "31.56779661016949",
+   "Average_Income": "484.5638559"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "43.625192012288785",
+   "Average_Income": "490.08233486943186"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "31.156156156156158",
+   "Average_Income": "489.2571096096097"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "29.288472145615003",
+   "Average_Income": "477.01684500827366"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "33.75748502994012",
+   "Average_Income": "512.8854491017961"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 4",
+   "IllnessPercentage": "38.26395039858282",
+   "Average_Income": "468.90875110717445"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "38.92554194156456",
+   "Average_Income": "505.01965127238384"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "37.00642791551883",
+   "Average_Income": "520.1992378328741"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "31.297709923664126",
+   "Average_Income": "499.77843935538556"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "32.69012485811578",
+   "Average_Income": "484.7432236095352"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "45",
+   "Average_Income": "527.4720500000004"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "33.30714846818539",
+   "Average_Income": "485.32864886095854"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "30.783242258652095",
+   "Average_Income": "519.7779599"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "34.36714165968148",
+   "Average_Income": "484.1005196982379"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 5",
+   "IllnessPercentage": "39.17910447761194",
+   "Average_Income": "510.18349813432786"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "34.22018348623853",
+   "Average_Income": "487.23317431192686"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "37.18723037100949",
+   "Average_Income": "517.2761432269201"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "30.65326633165829",
+   "Average_Income": "541.0798408710214"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "32.52480705622933",
+   "Average_Income": "596.8230429988976"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "43.76012965964344",
+   "Average_Income": "467.4586061588327"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "33.970925784238716",
+   "Average_Income": "575.3179418515682"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "32.09594517418618",
+   "Average_Income": "609.5993146773255"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "38.03526448",
+   "Average_Income": "578.4418136020151"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "36.67570009033423",
+   "Average_Income": "500.2580126467928"
+ },
+ {
+   "region": "Scotland",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "30.76923076923077",
+   "Average_Income": "517.9423076923077"
+ },
+ {
+   "region": "Wales",
+   "Wave": "Wave 6",
+   "IllnessPercentage": "47.61904761904761",
+   "Average_Income": "355.53809523809525"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "32.87380699893955",
+   "Average_Income": "533.9247932"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "36.96275071633238",
+   "Average_Income": "589.5159789875837"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "33.18425760286225",
+   "Average_Income": "575.0896243291587"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "32.481751824817515",
+   "Average_Income": "558.8352189781021"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "41.73913043478261",
+   "Average_Income": "534.9618956521741"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "31.29644921552436",
+   "Average_Income": "567.3907184145336"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "30.07662835249042",
+   "Average_Income": "529.4386781609201"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "38.71841155234657",
+   "Average_Income": "551.5898465703974"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "37.955465587044536",
+   "Average_Income": "575.5345647773285"
+ },
+ {
+   "region": "Scotland",
+   "Wave": "Wave 7",
+   "IllnessPercentage": "20",
+   "Average_Income": "590.436"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "30.79584775086505",
+   "Average_Income": "552.8910841983857"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "36.548767416934616",
+   "Average_Income": "580.0034405144696"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "34.989648033126294",
+   "Average_Income": "582.5596894409945"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "36.21700879765396",
+   "Average_Income": "580.1100586510262"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "43.883495145631066",
+   "Average_Income": "590.9299805825242"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "34.58715596330275",
+   "Average_Income": "571.5870734"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "33.186490455212926",
+   "Average_Income": "567.2443098384734"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "36.46812957157785",
+   "Average_Income": "588.6762695924765"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "39.3018018",
+   "Average_Income": "577.0160698198192"
+ },
+ {
+   "region": "Scotland",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "18.75",
+   "Average_Income": "565.3818749999999"
+ },
+ {
+   "region": "Wales",
+   "Wave": "Wave 8",
+   "IllnessPercentage": "48",
+   "Average_Income": "694.1791999999998"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "33.78839590443686",
+   "Average_Income": "644.7024118316273"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "35.405105438401776",
+   "Average_Income": "685.4760599334081"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "33.80140421263791",
+   "Average_Income": "659.1691073219669"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "30.962343096234306",
+   "Average_Income": "599.5247559274756"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "40.76086956521739",
+   "Average_Income": "716.8430434782615"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "32.01793721973094",
+   "Average_Income": "682.8958744394619"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "32.37704918032787",
+   "Average_Income": "674.8310040983611"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "36.38232271325796",
+   "Average_Income": "658.8638848920847"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "36.78532901833872",
+   "Average_Income": "696.0302696871628"
+ },
+ {
+   "region": "Wales",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "48.275862068965516",
+   "Average_Income": "532.2241379310345"
+ },
+ {
+   "region": "Scotland",
+   "Wave": "Wave 9",
+   "IllnessPercentage": "31.818181818181817",
+   "Average_Income": "701.4804545454546"
+ },
+ {
+   "region": "Yorkshire and The Humber",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "32.900432900432904",
+   "Average_Income": "694.4093506493515"
+ },
+ {
+   "region": "West Midlands",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "32.54593175853018",
+   "Average_Income": "698.6449475065617"
+ },
+ {
+   "region": "South West",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "31.66855845629966",
+   "Average_Income": "714.9501929625422"
+ },
+ {
+   "region": "London",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "32.16463414634146",
+   "Average_Income": "697.9114939024391"
+ },
+ {
+   "region": "North East",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "35.944700460829495",
+   "Average_Income": "681.4734562211984"
+ },
+ {
+   "region": "East of England",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "33.89296956977964",
+   "Average_Income": "719.3107764952782"
+ },
+ {
+   "region": "South East",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "28.50539291217257",
+   "Average_Income": "674.220624"
+ },
+ {
+   "region": "North West",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "33.775633293124244",
+   "Average_Income": "717.5857298"
+ },
+ {
+   "region": "East Midlands",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "33.064516129032256",
+   "Average_Income": "699.5568548387103"
+ },
+ {
+   "region": "Wales",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "55.172413793103445",
+   "Average_Income": "840.1975862068967"
+ },
+ {
+   "region": "Scotland",
+   "Wave": "Wave 10",
+   "IllnessPercentage": "31.818181818181817",
+   "Average_Income": "780.1499999999997"
+ }
+]
